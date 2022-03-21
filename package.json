@@ -1,0 +1,20 @@
+{
+  "name": "vite-project",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+	"serve": "vite serve --port 8080",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^2.8.0"
+  },
+  "dependencies": {
+    "dat": "^14.0.3",
+    "dat.gui": "^0.7.9",
+    "gsap": "^3.9.1",
+    "three": "^0.138.3"
+  }
+}
